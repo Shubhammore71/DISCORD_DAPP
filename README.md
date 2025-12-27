@@ -122,4 +122,4 @@ Open http://localhost:3000 in your browser.
 - Deployment to testnet/mainnet.
 - Additional security audits.
 
-This project highlights strong proficiency in **Solidity**, **Hardhat**, and **Ethers.js** while integrating a functional React frontend. Contributions and feedback welcome! 🚀
+This project highlights strong proficiency in **Solidity**, **Hardhat**, and **Ethers.js** while integrating a functional React frontend. Contributions and feedback welcome! 
